@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b37b3d6f-5fea-d043-9bc3-58758133190d++3621" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b37b3d6f-5fea-d043-9bc3-58758133190d++3621" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0E1902C3-04F3-44F7-843E-AF62E80FE008",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b37b3d6f-5fea-d043-9bc3-58758133190d++3621" : "fanqieDian\/fanqieDian\/333\/SBJSON\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "fanqieDian",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "fanqieDian.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.211\/ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b37b3d6f-5fea-d043-9bc3-58758133190d++3621"
+    }
+  ]
+}
